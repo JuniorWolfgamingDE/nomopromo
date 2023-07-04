@@ -1,3 +1,4 @@
+![NoMoPromo Logo](blueadremover/assets/icons/icon128.png)
 # NoMoPromo
 NoMoPromo! Get rid of promo on webpages and enjoy your newly-earned screen-estate.
 

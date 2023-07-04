@@ -7,7 +7,7 @@ Material Symbols licensed under the [Apache License 2.0](https://raw.githubuserc
 
 Promo block TODO:
 - [x] Twitter Blue
-- [ ] YouTube Premium
+- [ ] YouTube Music Premium
 - [ ] Spotify Premium
 - [ ] Edge promo on Bing.com
 - [ ] CurseForge app promo on download

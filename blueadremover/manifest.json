@@ -16,6 +16,7 @@
     "48": "assets/icons/icon48.png",
     "128": "assets/icons/icon128.png"
   },
+  "background": {"service_worker": "bg.js"},
   "action": {
     "default_popup": "assets/pages/popup.html",
     "default_icon": "assets/icons/icon128.png"

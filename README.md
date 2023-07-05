@@ -11,4 +11,5 @@ Promo block TODO:
 - [ ] Spotify Premium
 - [ ] Edge promo on Bing.com
 - [ ] CurseForge app promo on download
-- [ ] (AdFly malware ads)
+- [ ] (AdFly & Linkvertise malware ads)
+- [ ] Aternos Antiadblock + Exaroton promo
